@@ -1,0 +1,60 @@
+C:\Users\otaku\Desktop\board game\board game\bin\Debug\board game.exe.config
+C:\Users\otaku\Desktop\board game\board game\bin\Debug\board game.exe
+C:\Users\otaku\Desktop\board game\board game\bin\Debug\board game.pdb
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board game.csprojAssemblyReference.cache
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Form1.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Form2.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Properties.Resources.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board game.csproj.GenerateResource.cache
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board game.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board game.exe
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board game.pdb
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Form3.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Login1.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Consul.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Funcionario.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Fornecedor.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.ConsulFornecedor.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.ConsulFuncionario.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.ConsulPlayerss.resources
+C:\Users\otaku\Desktop\board game\board game\obj\Debug\board_game.Playerss.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\bin\Debug\board game.exe.config
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\bin\Debug\board game.exe
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\bin\Debug\board game.pdb
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board game.csprojAssemblyReference.cache
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Consul.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.ConsulFornecedor.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.ConsulFuncionario.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.ConsulPlayerss.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Form1.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Form2.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Form3.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Fornecedor.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Funcionario.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Login1.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Playerss.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Properties.Resources.resources
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board game.csproj.GenerateResource.cache
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board game.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board game.exe
+C:\Users\otaku\Desktop\board game - Copia (2)\board game\obj\Debug\board game.pdb
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\bin\Debug\board game.exe.config
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\bin\Debug\board game.exe
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\bin\Debug\board game.pdb
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board game.csprojAssemblyReference.cache
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Consul.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.ConsulFornecedor.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.ConsulFuncionario.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.ConsulPlayerss.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Form1.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Form2.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Form3.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Fornecedor.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Funcionario.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Login1.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Playerss.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board_game.Properties.Resources.resources
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board game.csproj.GenerateResource.cache
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board game.csproj.CoreCompileInputs.cache
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board game.exe
+C:\Users\mihacks\Desktop\board game - Copia (2)\board game\obj\Debug\board game.pdb
